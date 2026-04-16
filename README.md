@@ -36,7 +36,6 @@ The project also integrates **SAP Business Data Cloud (BDC)** as the analytics l
 
 ---
 
----
 
 ## 📊 Features
 - End-to-End O2C Process
