@@ -88,8 +88,8 @@ Inquiry (VA11) → Quotation (VA21) → Sales Order (VA01) → Delivery (VL01N)
 ## Files in This Repository
 
 ```
-├── O2C_Project_ShibangMaity_v2.docx   # Full project report (editable Word)
-└── README.md                           # This file
+├── README.md                           # This file
+└── O2C_Project_ShibangMaity_v2.docx   # Full project report (editable Word)
 ```
 
 ---
